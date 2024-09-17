@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="Banner GIF" style="width: 100%; height: auto; position: absolute; top: 0; left: 0;">
 </div>
 <h1 align="center">Hi 👋, I'm Kalyani Mali</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A Full Stack Developer </h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalyanimali&label=Profile%20views&color=0e75b6&style=flat" alt="kalyanimali" /> </p>
@@ -13,11 +13,11 @@
 
 - 🌱 I’m currently learning **Advanced React and Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kalyanimali](https://github.com/kalyanimali)
+- 👨‍💻 All of my projects are available at [https://github.com/kalyani11git](https://github.com/kalyani11git)
 
-- 💬 Ask me about **React, MERN, Spring Boot, Tailwind CSS**
+- 💬 Ask me about **React, Spring Boot, Tailwind CSS**
 
-- 📫 How to reach me **kalyanimali@gmail.com**
+- 📫 How to reach me **kalyanimali2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
