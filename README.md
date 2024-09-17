@@ -1,9 +1,9 @@
 <div style="position: relative; overflow: hidden; width: 100%; height: 300px;">
-  <img src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif" alt="Banner GIF" style="width: 100%; height: auto; position: absolute; top: 0; left: 0;">
+  <img src="" alt="Banner GIF" style="width: 100%; height: auto; position: absolute; top: 0; left: 0;">
 </div>
 <h1 align="center">Hi 👋, I'm Kalyani Mali</h1>
 <h3 align="center">A Full Stack Developer </h3>
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalyanimali&label=Profile%20views&color=0e75b6&style=flat" alt="kalyanimali" /> </p>
 
