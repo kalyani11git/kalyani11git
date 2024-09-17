@@ -1,5 +1,5 @@
 <div style="position: relative; overflow: hidden; width: 100%; height: 300px;">
-  <img src="" alt="Banner GIF" style="width: 100%; height: auto; position: absolute; top: 0; left: 0;">
+  
 </div>
 <h1 align="center">Hi 👋, I'm Kalyani Mali</h1>
 <h3 align="center">A Full Stack Developer </h3>
