@@ -36,8 +36,4 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalyanimali&show_icons=true&locale=en&layout=compact" alt="kalyanimali" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalyanimali&show_icons=true&locale=en" alt="kalyanimali" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalyanimali&" alt="kalyanimali" /></p>
